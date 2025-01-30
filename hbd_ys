@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>생일 축하해!</title>
+    <title> 영선아! 생일 축하해!</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -41,16 +41,16 @@
 </head>
 <body>
     <div class="container">
-        <h1>🎉 생일 축하해, [친구 이름]! 🎂</h1>
-        <p class="message">너와 함께한 추억을 떠올리며, 특별한 하루가 되길 바라! 🥰</p>
+        <h1>🎉 생일 축하해, [영선아!]! 🎂</h1>
+        <p class="message">거제에서 가족들과 행복한 시간 보내고 있길! 🥰</p>
         
         <div class="image-container">
-            <img src="your_image_url.jpg" alt="생일 축하 이미지" width="300">
+            <img src="https://github.com/Gnhee/congratulations/blob/main/hbdysimage.PNG?raw=true" alt="생일 축하 이미지" width="300">
         </div>
         
         <div class="video-container">
-            <p>🎶 이 영상은 너를 위한 작은 선물이야! 🎶</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
+            <p>🎶 이 영상은 너를 위한 작은 선물이야!...사실 생일 선물예고야 🎶</p>
+            <iframe width="560" height="315" src="https://youtu.be/wRdeQS0ajCU?si=E5g9JBAEtA47Mktv&t=704" frameborder="0" allowfullscreen></iframe>
         </div>
         
         <a class="button" href="https://your_special_link.com">더 많은 추억 보기 💖</a>
