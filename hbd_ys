@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>생일 축하해!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffebcd;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 50px;
+        }
+        h1 {
+            color: #ff4500;
+        }
+        .message {
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        .image-container {
+            margin-top: 30px;
+        }
+        .video-container {
+            margin-top: 20px;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #ff4500;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎉 생일 축하해, [친구 이름]! 🎂</h1>
+        <p class="message">너와 함께한 추억을 떠올리며, 특별한 하루가 되길 바라! 🥰</p>
+        
+        <div class="image-container">
+            <img src="your_image_url.jpg" alt="생일 축하 이미지" width="300">
+        </div>
+        
+        <div class="video-container">
+            <p>🎶 이 영상은 너를 위한 작은 선물이야! 🎶</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>
+        </div>
+        
+        <a class="button" href="https://your_special_link.com">더 많은 추억 보기 💖</a>
+    </div>
+</body>
+</html>
